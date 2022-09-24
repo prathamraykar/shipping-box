@@ -36,3 +36,33 @@
     transform: rotate(360deg);
   }
 }
+.ship{
+  background-color: aqua;
+  border-style: dotted;
+
+}
+button{
+  width: fit-content;
+  background-color: blue;
+}
+form{
+  text-align: center;
+}
+input,label{
+  display: block;
+  margin:0 auto 10px auto;
+  
+}
+table{
+  width: 100%;
+ border-collapse:collapse;
+
+}th,td{
+  border: 5px solid #ddd;
+}
+th{
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: antiquewhite;
+}
